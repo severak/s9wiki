@@ -1,0 +1,8 @@
+**S9Wiki** - jednoduchá wiki vytvořená pro stránky [strajt9.sweb.cz](http://strajt9.sweb.cz/) (odtud název *S9*).
+
+Vytvořeno v roce 2013 s pomocí vlastního [brickyard frameworku](https://github.com/severak/brickyard).
+
+---
+
+[upravit tuto stránku](?act=edit&tema=index)
+
